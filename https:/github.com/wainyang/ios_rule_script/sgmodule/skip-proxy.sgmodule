@@ -1,0 +1,33 @@
+#!url=https://raw.githubusercontent.com/mieqq/mieqq/master/skip-proxy-lists.sgmodule
+#!name=Skip Proxy And Real-IP Lists
+#!desc=跳过部分应用的代理检测
+
+[General]
+skip-proxy = %APPEND% www.baidu.com,yunbusiness.ccb.com,wxh.wo.cn,gate.lagou.com,www.abchina.com.cn,www.shanbay.com,login-service.mobile-bank.psbc.com,mobile-bank.psbc.com,*.icbc.com.cn,*.ccb.com,*.boc.cn,*.abchina.com,*.bankcomm.com,*.cmbchina.com,*.cmbc.com.cn,*.spdb.com.cn,*.cib.com.cn,*.hxb.com.cn,*.cgbchina.com.cn,*.pingan.com.cn,*.psbc.com,*.bocchina.com,*.95516.com,*.unionpay.com
+
+always-real-ip = %APPEND% easy-login.10099.com.cn,*-update.xoyocdn.com,*.icbc.com.cn,*.ccb.com,*.boc.cn,*.abchina.com,*.bankcomm.com,*.cmbchina.com,*.cmbc.com.cn,*.spdb.com.cn,*.cib.com.cn,*.hxb.com.cn,*.cgbchina.com.cn,*.pingan.com.cn,*.psbc.com
+
+# www.baidu.com：网上国网、多看阅读、顺丰金融、广东农信、丰云行、中国银行缤纷生活、通信行程卡app、趣智校园、趣听音乐、光大手机银行、掌上12333、沃视频
+# yunbusiness.ccb.com 建行生活
+# wxh.wo.cn：沃小号
+# gate.lagou.com：拉勾招聘
+# www.abchina.com.cn 中国农业银行
+# www.shanbay.com 扇贝单词消息中心
+# login-service.mobile-bank.psbc.com,mobile-bank.psbc.com 中国邮政储蓄银行
+# easy-login.10099.com.cn 中国广电
+# *-update.xoyocdn.com 剑网三无界
+# *.icbc.com.cn 工商银行
+# *.ccb.com 建设银行
+# *.boc.cn 中国银行
+# *.abchina.com 农业银行
+# *.bankcomm.com 交通银行
+# *.cmbchina.com 招商银行
+# *.cmbc.com.cn 民生银行
+# *.spdb.com.cn 浦发银行
+# *.cib.com.cn 兴业银行
+# *.hxb.com.cn 华夏银行
+# *.cgbchina.com.cn 广发银行
+# *.pingan.com.cn 平安银行
+# *.psbc.com 邮政储蓄银行
+# *.95516.com 银联云闪付
+# *.unionpay.com 银联
