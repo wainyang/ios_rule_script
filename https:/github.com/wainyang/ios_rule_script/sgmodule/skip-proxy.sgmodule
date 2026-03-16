@@ -1,7 +1,7 @@
-#!url=https://raw.githubusercontent.com/mieqq/mieqq/master/skip-proxy-lists.sgmodule
+#!url=https://raw.githubusercontent.com/wainyang/ios_rule_script/sgmodule/skip-proxy.sgmodule
 #!name=Skip Proxy And Real-IP Lists
 #!desc=跳过部分应用的代理检测
-
+https:/
 [General]
 skip-proxy = %APPEND% www.baidu.com,yunbusiness.ccb.com,wxh.wo.cn,gate.lagou.com,www.abchina.com.cn,www.shanbay.com,login-service.mobile-bank.psbc.com,mobile-bank.psbc.com,*.icbc.com.cn,*.ccb.com,*.boc.cn,*.abchina.com,*.bankcomm.com,*.cmbchina.com,*.cmbc.com.cn,*.spdb.com.cn,*.cib.com.cn,*.hxb.com.cn,*.cgbchina.com.cn,*.pingan.com.cn,*.psbc.com,*.bocchina.com,*.95516.com,*.unionpay.com,cfm.qq.com,*.cfm.qq.com,majiang.qq.com,*.game.qq.com,*.gameyw.qq.com,*.timsdk.qq.com
 
