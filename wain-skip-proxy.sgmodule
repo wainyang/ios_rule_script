@@ -1,5 +1,5 @@
 #!url=https://raw.githubusercontent.com/wainyang/ios_rule_script/refs/heads/master/wain-skip-proxy.sgmodule
-#!name=Skip Proxy And Real-IP Lists
+#!name=跳过部分应用的代理检测
 #!desc=跳过部分应用的代理检测
 
 [General]
