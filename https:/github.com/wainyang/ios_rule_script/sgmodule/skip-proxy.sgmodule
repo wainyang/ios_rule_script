@@ -3,9 +3,9 @@
 #!desc=跳过部分应用的代理检测
 
 [General]
-skip-proxy = %APPEND% www.baidu.com,yunbusiness.ccb.com,wxh.wo.cn,gate.lagou.com,www.abchina.com.cn,www.shanbay.com,login-service.mobile-bank.psbc.com,mobile-bank.psbc.com,*.icbc.com.cn,*.ccb.com,*.boc.cn,*.abchina.com,*.bankcomm.com,*.cmbchina.com,*.cmbc.com.cn,*.spdb.com.cn,*.cib.com.cn,*.hxb.com.cn,*.cgbchina.com.cn,*.pingan.com.cn,*.psbc.com,*.bocchina.com,*.95516.com,*.unionpay.com
+skip-proxy = %APPEND% www.baidu.com,yunbusiness.ccb.com,wxh.wo.cn,gate.lagou.com,www.abchina.com.cn,www.shanbay.com,login-service.mobile-bank.psbc.com,mobile-bank.psbc.com,*.icbc.com.cn,*.ccb.com,*.boc.cn,*.abchina.com,*.bankcomm.com,*.cmbchina.com,*.cmbc.com.cn,*.spdb.com.cn,*.cib.com.cn,*.hxb.com.cn,*.cgbchina.com.cn,*.pingan.com.cn,*.psbc.com,*.bocchina.com,*.95516.com,*.unionpay.com,cfm.qq.com,*.cfm.qq.com,majiang.qq.com,*.game.qq.com,*.gameyw.qq.com,*.timsdk.qq.com
 
-always-real-ip = %APPEND% easy-login.10099.com.cn,*-update.xoyocdn.com,*.icbc.com.cn,*.ccb.com,*.boc.cn,*.abchina.com,*.bankcomm.com,*.cmbchina.com,*.cmbc.com.cn,*.spdb.com.cn,*.cib.com.cn,*.hxb.com.cn,*.cgbchina.com.cn,*.pingan.com.cn,*.psbc.com
+always-real-ip = %APPEND% easy-login.10099.com.cn,*-update.xoyocdn.com,*.icbc.com.cn,*.ccb.com,*.boc.cn,*.abchina.com,*.bankcomm.com,*.cmbchina.com,*.cmbc.com.cn,*.spdb.com.cn,*.cib.com.cn,*.hxb.com.cn,*.cgbchina.com.cn,*.pingan.com.cn,*.psbc.com,cfm.qq.com,*.cfm.qq.com,*.game.qq.com
 
 # www.baidu.com：网上国网、多看阅读、顺丰金融、广东农信、丰云行、中国银行缤纷生活、通信行程卡app、趣智校园、趣听音乐、光大手机银行、掌上12333、沃视频
 # yunbusiness.ccb.com 建行生活
@@ -31,3 +31,4 @@ always-real-ip = %APPEND% easy-login.10099.com.cn,*-update.xoyocdn.com,*.icbc.co
 # *.psbc.com 邮政储蓄银行
 # *.95516.com 银联云闪付
 # *.unionpay.com 银联
+# cfm.qq.com,*.cfm.qq.com,*.game.qq.com,*.gameyw.qq.com,*.timsdk.qq.com 穿越火线：枪战王者
